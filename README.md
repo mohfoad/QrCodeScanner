@@ -1,0 +1,1 @@
+# QrCode-Scanner-App
